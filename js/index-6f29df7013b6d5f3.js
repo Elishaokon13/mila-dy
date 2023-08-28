@@ -537,92 +537,20 @@
             },
           },
         ],
-        R = [
-          {
-            title: "OKX Dex",
-            icon: {
-              src: "/_next/static/media/OkX.93c2cf90.svg",
-              height: 32,
-              width: 33,
-            },
-            link: "https://www.okx.com/web3/dex?inputChain=1&inputCurrency=ETH&outputChain=1&outputCurrency=0x12970e6868f88f6557b76120662c1b3e50a646bf",
-          },
-          {
-            title: "Bybit",
-            icon: {
-              src: "/_next/static/media/Bybit.7b819e58.svg",
-              height: 32,
-              width: 32,
-            },
-            link: "https://www.bybit.com/en-US/trade/spot/LADYS/USDT",
-          },
-          {
-            title: "Gate",
-            icon: {
-              src: "/_next/static/media/Gate.9a19d908.svg",
-              height: 32,
-              width: 33,
-            },
-            link: "https://gate.io/trade/ladys_usdt",
-          },
-          {
-            title: "Huobi",
-            icon: {
-              src: "/_next/static/media/houbi.cf995517.svg",
-              height: 32,
-              width: 33,
-            },
-            link: "https://www.huobi.com/en-us/exchange/ladys_usdt",
-          },
-          {
-            title: "Bitget",
-            icon: {
-              src: "/_next/static/media/Bitget.0328ee1c.svg",
-              height: 32,
-              width: 33,
-            },
-            link: "https://www.bitget.com/en/spot/ladysusdt_SPBL?type=spot",
-          },
-          {
-            title: "MEXC",
-            icon: {
-              src: "/_next/static/media/Mexc.0f369919.svg",
-              height: 32,
-              width: 33,
-            },
-            link: "https://www.mexc.com/exchange/LADYS_USDT",
-          },
-          {
-            title: "Kucoin",
-            icon: {
-              src: "/_next/static/media/Kucoin.aacd3970.svg",
-              height: 32,
-              width: 32,
-            },
-            link: "https://www.kucoin.com/trade/LADYS-USDT",
-          },
-        ],
+        R = [  ],
         T = [
           {
             title: "V2 (ERC20)",
             icon: N,
-            link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x12970E6868f88f6557B76120662c1B3E50A646bf",
+            link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0xfe6d7994279D00234c2cba7652745033e04cf2C2",
           },
-          {
-            title: "V3 (ARB)",
-            icon: N,
-            link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3b60FF35D3f7F62d636b067dD0dC0dFdAd670E4E",
-          },
+         
           {
             title: "(ERC20)",
             icon: E,
             link: "https://www.dextools.io/app/en/ether/pair-explorer/0xfe6d7994279D00234c2cba7652745033e04cf2C2",
           },
-          {
-            title: "(ARB)",
-            icon: E,
-            link: "https://www.dextools.io/app/en/arbitrum/pair-explorer/",
-          },
+          
         ],
         _ = function () {
           return (0, i.jsx)("div", {
@@ -931,13 +859,13 @@
             return (0, q.Am)("Copy Successfully");
           },
             t = (0, h.useState)(
-              "https://etherscan.io/token/0x12970E6868f88f6557B76120662c1B3E50A646bf"
+              "https://etherscan.io/token/0xfe6d7994279D00234c2cba7652745033e04cf2C2"
             ),
             a = t[0];
           t[1];
           var n,
             s = (0, h.useState)(
-              "https://arbiscan.io/token/0x3b60ff35d3f7f62d636b067dd0dc0dfdad670e4e"
+              "https://etherscan.io/token/0xfe6d7994279D00234c2cba7652745033e04cf2C2"
             ),
             l = s[0];
           s[1];
@@ -1063,12 +991,12 @@
                                         className:
                                           "text-[#E6368C] font-normal text-[14px] leading-6",
                                         children:
-                                          "https://etherscan.io/token/0x1297...",
+                                          "https://etherscan.io/token/0xfe6d...",
                                       }),
                                       (0, i.jsx)("button", {
                                         className: "w-[16px] h-[16px]",
                                         children: (0, i.jsx)("a", {
-                                          href: "https://etherscan.io/token/0x12970E6868f88f6557B76120662c1B3E50A646bf",
+                                          href: "https://etherscan.io/token/0xfe6d7994279D00234c2cba7652745033e04cf2C2",
                                           target: "_blank",
                                           children: (0, i.jsx)(r(), {
                                             src: W,
@@ -1099,7 +1027,7 @@
                                       (0, i.jsx)("button", {
                                         className: "w-[16px] h-[16px]",
                                         children: (0, i.jsx)("a", {
-                                          href: "https://arbiscan.io/token/0x3b60ff35d3f7f62d636b067dd0dc0dfdad670e4e",
+                                          href: "https://etherscan.io/token/0xfe6d7994279D00234c2cba7652745033e04cf2C2",
                                           target: "_blank",
                                           children: (0, i.jsx)(r(), {
                                             src: W,
