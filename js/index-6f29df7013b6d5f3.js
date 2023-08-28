@@ -616,12 +616,12 @@
           {
             title: "(ERC20)",
             icon: E,
-            link: "https://www.dextools.io/app/en/ether/pair-explorer/0xcbe856765eeec3fdc505ddebf9dc612da995e593",
+            link: "https://www.dextools.io/app/en/ether/pair-explorer/0xfe6d7994279D00234c2cba7652745033e04cf2C2",
           },
           {
             title: "(ARB)",
             icon: E,
-            link: "https://www.dextools.io/app/en/arbitrum/pair-explorer/0x1371e3f8fb588a520d43e816cfbeb6e94078b5e6",
+            link: "https://www.dextools.io/app/en/arbitrum/pair-explorer/",
           },
         ],
         _ = function () {
