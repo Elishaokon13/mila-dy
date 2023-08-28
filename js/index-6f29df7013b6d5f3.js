@@ -297,7 +297,7 @@
               height: 64,
               width: 64,
             },
-            link: "https://twitter.com/miladymemecoin",
+            link: "https://twitter.com/newmiladyeth",
           },
           {
             id: 1,
@@ -306,7 +306,7 @@
               height: 64,
               width: 64,
             },
-            link: "https://t.me/miladymemecoin",
+            link: "https://t.me/NEWmiladyEth",
           },
           { id: 0, icon: u, link: "https://discord.com/invite/miladymemecoin" },
         ],
@@ -453,18 +453,18 @@
               blurDataURL:
                 "data:image/webp;base64,UklGRr4AAABXRUJQVlA4WAoAAAAQAAAABwAABwAAQUxQSDoAAAABV6AmABIGYhHRwl6MGhER2G8Wb4Oa2lqyjf35bwxHRlOQgJ0qRvBQOqL/EZpi4At+gVvhbHgGHpoCVlA4IF4AAABwAgCdASoIAAgAAkA4JbACdLoB+AACjxc94QLAAPzyH+mxCZ8GU5JcSMHT6DqGKFaUYM3tj1tkhGLNY4GBKigD//LQnz7UX7N1dfPxC/+fnP73yX1oH5OPycf2zAAA",
             },
-            link: "https://twitter.com/miladymemecoin",
-            link_other: "https://twitter.com/miladymemecoin",
+            link: "https://twitter.com/newmiladyeth",
+            link_other: "https://twitter.com/newmiladyeth",
           },
           {
             icon: k,
-            link: "https://t.me/miladymemecoinchannel",
-            link_other: "https://t.me/miladymemecoinchannel",
+            link: "https://t.me/Myladyvip_bot",
+            link_other: "https://t.me/Myladyvip_bot",
           },
           {
             icon: k,
-            link: "https://t.me/miladymemecoin",
-            link_other: "https://t.me/miladymemecoin",
+            link: "https://t.me/NEWmiladyEth",
+            link_other: "https://t.me/NEWmiladyEth",
           },
           {
             icon: u,
